@@ -1,6 +1,6 @@
 # Wireframe and Mockup
 
-This repository contains the wireframes and mockups for the Coffee Shop Website project, designed to enhance customer engagement and streamline the online ordering experience. 
+This repository contains the wireframes and mockups for the Coffee Shop Website project "Coffee Haven", designed to enhance customer engagement and streamline the online ordering experience. 
 
 ## Project Description
 The Coffee Shop Website is a user-friendly platform showcasing the shop's offerings, allowing customers to browse the menu, place orders, and learn more about the brand.
